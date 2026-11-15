@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/Hackerbaby11/chips-updates/main/app-debug.apk",
-  "notes": "New white and purple design"
+  "notes": "Stays on between orders, auto-off after 1 hour idle"
 }
